@@ -4,7 +4,7 @@
 
 | 下载平台       | 链接                                      |
 |----------------|-------------------------------------------|
-| **Android**    | [下载 Android 版](https://github.com/你的用户名/my-app-releases/releases/download/v1.0/app.apk) |
+| **Android**    | [下载 Android 版](https://github.com/Smilling1120/Safe-Connect/releases/download/v1.0/safeconnect.apk) |
 | **iOS**        | [下载 iOS 版](https://github.com/你的用户名/my-app-releases/releases/download/v1.0/app.ipa) |
 
 
