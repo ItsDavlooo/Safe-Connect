@@ -2,7 +2,7 @@
 
 ## Downloads
 
-| 系统          | 稳定版  | 应用商店 | 测试版  |
+| 系统          | 稳定版  
 |---------------|---------|----------|---------|
 | **Windows**   | [Windows 10+](https://github.com/你的用户名/my-app-releases/releases/download/v1.0/app-windows.zip) 
 | **Android**   | [Android 6+](https://github.com/你的用户名/my-app-releases/releases/download/v1.0/app.apk) | [Android 6+](链接) | [Android 6+](链接) |
